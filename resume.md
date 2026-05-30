@@ -1,14 +1,10 @@
 # Aziz Nechi
-**Site Reliability Engineer & Backend Developer** Munich, Germany | aziz.nechi.pro@gmail.com | linkedin.com/in/aziz-nechi | github.com/yNeshy
+**Site Reliability Engineer @ Google**
+
+Munich, Germany | aziz.nechi.pro@gmail.com
 
 ## Professional Summary
-High-impact Site Reliability Engineer and Backend Developer with a proven track record of designing large-scale job orchestration tools, data governance pipelines, and enterprise AI monitoring infrastructure. Expert at maximizing system availability and building robust cloud-native applications with Python and Go.
-
-## Core Technical Skills
-* **Languages:** Python, Go, SQL, Bash, C++, C# (.NET)
-* **Infrastructure & SRE:** Distributed Systems, Job Orchestration, Cloud Infrastructure (Compute/Storage), Service Monitoring (SLOs/Probers), High-Availability Architecture
-* **Data & Cloud:** AWS (S3), Apache Iceberg, Private Cloud Data Platforms, Relational Databases (MSQL)
-* **Specializations:** Privacy Engineering, Data Governance, Incident Management, AI Safety & Observability
+High-impact Site Reliability Engineer at Google with a proven track record of designing large-scale job orchestration tools, data governance pipelines, and enterprise AI monitoring infrastructure. Expert at maximizing system availability and building robust cloud-native applications with Python and Go.
 
 ## Professional Experience
 
@@ -43,6 +39,12 @@ High-impact Site Reliability Engineer and Backend Developer with a proven track 
 **Conversational LLM for SQL Generation**
 * Developed a conversational generative AI web interface allowing non-technical stakeholders to query complex data sets and receive immediate visual graphs.
 * Successfully reduced the business's average data analysis turnaround time from 3 days to less than an hour.
+
+## Core Technical Skills
+* **Languages:** Python, Go, SQL, Bash, C++, C# (.NET)
+* **Infrastructure & SRE:** Distributed Systems, Job Orchestration, Cloud Infrastructure (Compute/Storage), Service Monitoring (SLOs/Probers), High-Availability Architecture
+* **Data & Cloud:** AWS (S3), Apache Iceberg, Private Cloud Data Platforms, Relational Databases (MSQL)
+* **Specializations:** Privacy Engineering, Data Governance, Incident Management, AI Safety & Observability
 
 ## Education
 **Institut National des Sciences Appliquées et de la Technologie (INSAT)**
